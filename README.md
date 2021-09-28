@@ -1,2 +1,2 @@
-# Project
-Space Project for school
+# One-Page Website
+Project for school
